@@ -1,2 +1,3 @@
 git text
 branch 2 update file
+branch 1 update file
